@@ -1,13 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62a4545f-9140-46ef-8459-8995166f723e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Portfolio2" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bus_lab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/.rspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/app/functions.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/app/main.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/app/views/blog.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/app/views/comment.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/app/views/delete.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/app/views/home.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/app/views/layout.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/app/views/post.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/app/views/read_post.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/config.ru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/spec/blog_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cara/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/README.rdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/images/rails.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/javascripts/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/javascripts/arrivals.js.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/javascripts/user_sessions.js.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/javascripts/users.js.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/stylesheets/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/stylesheets/arrivals.css.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/stylesheets/scaffolds.css.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/stylesheets/user_sessions.css.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/assets/stylesheets/users.css.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/controllers/application_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/controllers/arrivals_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/controllers/user_sessions_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/controllers/users_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/helpers/application_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/helpers/arrivals_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/helpers/user_sessions_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/helpers/users_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/mailers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/models/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/models/arrival.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/models/user.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/arrivals/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/arrivals/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/arrivals/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/arrivals/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/arrivals/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/layouts/application.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/user_sessions/create.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/user_sessions/destroy.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/user_sessions/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/users/_form.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/users/edit.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/users/index.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/users/new.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/app/views/users/show.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config.ru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/application.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/boot.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/database.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/environment.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/environments/development.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/environments/production.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/environments/test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/initializers/backtrace_silencers.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/initializers/inflections.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/initializers/mime_types.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/initializers/secret_token.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/initializers/session_store.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/initializers/sorcery.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/initializers/wrap_parameters.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/db/migrate/20140513143653_create_arrivals.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/db/migrate/20140513151832_sorcery_core.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/db/schema.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/db/seeds.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/doc/README_FOR_APP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/lib/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/lib/tasks/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/log/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/public/422.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/public/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/script/rails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/fixtures/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/fixtures/arrivals.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/fixtures/users.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/functional/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/functional/arrivals_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/functional/user_sessions_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/functional/users_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/integration/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/performance/browsing_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/test_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/unit/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/unit/arrival_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/unit/helpers/arrivals_helper_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/unit/helpers/user_sessions_helper_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/unit/helpers/users_helper_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/test/unit/user_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/vendor/assets/javascripts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/vendor/assets/stylesheets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkin/vendor/plugins/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-agni" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css-quiz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example-git" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js_calc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nested_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-git" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-rails" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails-blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smac_angels" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../the-nag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hackernews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackernews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackernews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackernews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62a4545f-9140-46ef-8459-8995166f723e" name="Default Changelist" comment="" />
+      <created>1543191267739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543191267739</updated>
+      <workItem from="1543191271547" duration="219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="219000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
 </project>
